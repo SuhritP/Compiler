@@ -1,4 +1,4 @@
-## CS 32 Scrypt
+## Scrypt
 A simple lightweight programming language.
 
 There are four main functions located in `/src`. Namely, `lex.cpp`, `calc.cpp`, `format.cpp` and `scrypt.cpp`. All four main functions take in text input of Scrypt program.
